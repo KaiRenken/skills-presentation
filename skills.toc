@@ -1,0 +1,4 @@
+\babel@toc {german}{}\relax 
+\beamer@sectionintoc {1}{Was ist das Skills-Projekt?}{3}{0}{1}
+\beamer@sectionintoc {2}{Wie habe ich davon?}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Welches Profil habe ich?}{14}{0}{2}
